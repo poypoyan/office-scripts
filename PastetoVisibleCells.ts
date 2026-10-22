@@ -5,8 +5,8 @@ This is the Office Script version of https://www.reddit.com/r/excel/comments/wkr
 
 Usage: In a worksheet,
 1) Select the block of cells to copy.
-2) Run this script by going to Automate menu > finding and clicking the saved
-script. A prompt appears, then input the starting cell to paste.
+2) Run this script by going to Automate menu > new script/finding and clicking
+the saved script. A prompt appears, then input the starting cell to paste.
 
 Distributed under the MIT software license. See the accompanying
 file LICENSE or https://opensource.org/license/mit/.
